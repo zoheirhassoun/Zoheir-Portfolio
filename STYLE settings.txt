@@ -1,0 +1,27 @@
+/*
+{
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "editor.fontSize": 16,
+    "vscode-edge-devtools.webhint": false,
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.html": "default",
+        "*.zip": "default",
+        "*.sqlite3": "default"
+    },
+    "git.enableSmartCommit": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "php.debug.executablePath": "",
+    "editor.minimap.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "josefin Sans",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "editor.fontWeight": "normal"
+} 
+
+*/
